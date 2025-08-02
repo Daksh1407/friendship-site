@@ -321,7 +321,7 @@ export default function FinalMessageScreen() {
                   >
                     <Heart className="w-8 h-8 text-pink-500" fill="currentColor" />
                     <span className="bg-gradient-to-r from-cyan-400 to-pink-500 bg-clip-text text-transparent">
-                      You're the Best!
+                      You're the Best..Rupa!
                     </span>
                     <Heart className="w-8 h-8 text-pink-500" fill="currentColor" />
                   </motion.div>
