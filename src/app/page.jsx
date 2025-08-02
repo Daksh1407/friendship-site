@@ -83,7 +83,6 @@ export default function Home() {
           delay: 1,
         }}
         className="fixed bottom-4 right-4 text-[13px] text-white/50 pointer-events-none z-40 font-light">
-        @anujbuilds
       </motion.div>
     </div>
   )

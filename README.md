@@ -21,7 +21,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/friendship-day-site.git
+git clone https://github.com/Daksh1407/friendship-site
 
 # Navigate into the folder
 cd friendship-day-site
