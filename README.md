@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💟 Friendship Day Surprise – A Cute & Emotional Website for Your Bestie
 
 A cute little surprise built with love for this Friendship Day 💛
@@ -52,3 +53,6 @@ Follow me for more emotional surprise websites and creative dev content:
 If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
 Thank you for being here! 🫶  
 Made with emotions by **Anuj** – _@anujbuilds_
+=======
+# friendship-site
+>>>>>>> 929ca11c5bf95b56365ed6daa227c5637393c620
